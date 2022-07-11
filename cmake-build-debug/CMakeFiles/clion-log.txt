@@ -1,0 +1,4 @@
+/home/nilton/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nilton/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/bin/ninja/linux/ninja -G Ninja -S /home/nilton/Downloads/Trabalho1 -B /home/nilton/Downloads/Trabalho1/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nilton/Downloads/Trabalho1/cmake-build-debug

@@ -1,0 +1,5 @@
+# ninja log v5
+3	29	1657567236574234853	build.ninja	19ed742046313743
+1	74	1657498915807827026	CMakeFiles/AnalizadorLexico.dir/main.c.o	1a4455fb6b13023c
+25	41	1657502157276191891	AnalizadorLexico	502e4ff9231e33c8
+0	25	1657502157260190536	CMakeFiles/AnalizadorLexico.dir/listaWorks.c.o	d89de9116fc1141a

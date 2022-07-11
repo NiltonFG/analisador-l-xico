@@ -1,0 +1,104 @@
+program,simb_program
+fatorial,id
+_,ERRO, caracter nao permitido
+sobre,id
+_,ERRO, caracter nao permitido
+pi,id
+;,simb_ponto_virgula
+var,simb_var
+x,id
+:,simb_doisPontos
+real,simb_tipo
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+procedure,simb_procedure
+fat,id
+(,simb_parentesesA
+n,id
+:,simb_doisPontos
+real,simb_tipo
+),simb_parentesesF
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+var,simb_var
+i,id
+:,simb_doisPontos
+integer,simb_tipo
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+begin,simb_begin
+	,ERRO, caracter nao permitido
+	,ERRO, caracter nao permitido
+fat,id
+:=,simb_atribuição
+3,simb_num
+.,simb_ponto
+a14,id
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+	,ERRO, caracter nao permitido
+for,simb_for
+i,id
+:=,simb_atribuição
+2,simb_num
+to,simb_to
+n,id
+do,simb_do
+	,ERRO, caracter nao permitido
+	,ERRO, caracter nao permitido
+	,ERRO, caracter nao permitido
+fat,id
+:=,simb_atribuição
+fat,id
+*,simb_mutiplicacao
+i,id
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+	,ERRO, caracter nao permitido
+end,simb_end
+;,simb_ponto_virgula
+begin,simb_begin
+	,ERRO, caracter nao permitido
+read,simb_read
+(,simb_parentesesA
+x,id
+,,simb_virgula
+@,ERRO, caracter nao permitido
+),simb_parentesesF
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+x,id
+:=,simb_atribuição
+fat,id
+(,simb_parentesesA
+x,id
+),simb_parentesesF
+;,simb_ponto_virgula
+	,ERRO, caracter nao permitido
+write,simb_write
+(,simb_parentesesA
+x,id
+),simb_parentesesF
+;,simb_ponto_virgula
+{,ERRO, caracter nao permitido
+erro,id
+de,id
+numero,id
+real,simb_tipo
+mal,id
+formado,id
+,,simb_virgula
+caracter,id
+fora,id
+da,id
+linguagem,id
+,,simb_virgula
+comentario,id
+nao,id
+fechado,id
+.,simb_ponto
+.,simb_ponto
+.,simb_ponto
+end,simb_end
+.,simb_ponto
+A,ERRO, caracter nao permitido
